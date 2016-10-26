@@ -28,6 +28,7 @@ bld/
 #wwwroot/
 **wwwroot/app/*.js
 **wwwroot/app/*.map
+**wwwroot/libs/*
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
